@@ -1,2 +1,2 @@
 # typescript-vue
-Latihan Typescript + Vue 3 
+Latihan Typescript + Vue
